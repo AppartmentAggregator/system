@@ -1,6 +1,8 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/AppartmentAggregator/core.git
+	branch = main
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/AppartmentAggregator/frontend.git
+	branch = main
